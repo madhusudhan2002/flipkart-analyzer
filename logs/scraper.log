@@ -1,0 +1,16 @@
+2026-05-21 09:44:22,993 - INFO - ====== WebDriver manager ======
+2026-05-21 09:44:27,225 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-21 09:44:27,363 - INFO - There is no [win64] chromedriver "148.0.7778.178" for browser google-chrome "148.0.7778" in cache
+2026-05-21 09:44:29,206 - INFO - There is no [win64] chromedriver "148.0.7778.178" for browser google-chrome "148.0.7778" in cache
+2026-05-21 09:44:29,206 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-21 09:44:29,475 - INFO - WebDriver version 148.0.7778.178 selected
+2026-05-21 09:44:29,487 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win64/chromedriver-win64.zip
+2026-05-21 09:44:29,491 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win64/chromedriver-win64.zip
+2026-05-21 09:44:29,614 - INFO - Driver downloading response is 200
+2026-05-21 09:44:31,412 - INFO - Driver has been saved in cache [C:\Users\Madhusudhan Reddy\.wdm\drivers\chromedriver\win64\148.0.7778.178]
+2026-05-21 09:44:37,022 - INFO - Scraping Started
+2026-05-21 09:44:46,886 - INFO - Scraping Page 1
+2026-05-21 09:44:52,245 - INFO - Scraping Page 2
+2026-05-21 09:44:54,165 - INFO - No More Pages
+2026-05-21 09:44:57,175 - INFO - Scraping Completed
+2026-05-21 09:44:57,238 - INFO - Data Saved Successfully

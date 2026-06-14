@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+selenium
+webdriver-manager
+jupyter
+openpyxl
+streamlit
+selenium
